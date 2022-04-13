@@ -61,4 +61,5 @@ type SystemMessageIdentifier interface {
 }
 //test
 //test2
-
+func YbbTest(){
+}
