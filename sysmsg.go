@@ -59,3 +59,4 @@ func (self *SessionCloseNotify) SystemMessage()  {}
 type SystemMessageIdentifier interface {
 	SystemMessage()
 }
+//test
